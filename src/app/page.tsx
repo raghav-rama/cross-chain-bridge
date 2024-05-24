@@ -1,12 +1,13 @@
 "use client";
 
+import NavBar from "@/components/navbar";
 import ConnectButton from "@/components/wallet";
 import Image from "next/image";
 
 export default function Home() {
   return (
     <>
-      <ConnectButton />
+      <NavBar />
     </>
   );
 }
