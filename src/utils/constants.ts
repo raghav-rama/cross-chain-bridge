@@ -21,5 +21,5 @@ export const coinExTestnet = /*#__PURE__*/ defineChain({
 
 export const TOKEN_ETH = "0x3dab8705d0a112e40872aadbf70fcee0321d82ef";
 export const BRIDGE_ETH = "0x77fceb71adecb115f861f22b580add46c0fa1173";
-export const TOKEN_CSC = "0x7b28b685ea246c834337eb2f499b093a2808bb04";
-export const BRIDGE_CSC = "0x43fab08293e4f7f18cce62d36dbf676c425dbe9c";
+export const TOKEN_CSC = "0x800E9AD3aCbf7b80a3f2e06Ac5C2B8565dC4c44c";
+export const BRIDGE_CSC = "0x0aAb38709774593d1641a7F902022Be729Be9986";
