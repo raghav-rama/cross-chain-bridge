@@ -1,5 +1,6 @@
 "use client";
 
+import Bridge from "@/components/bridge";
 import NavBar from "@/components/navbar";
 import ConnectButton from "@/components/wallet";
 import Image from "next/image";
@@ -8,6 +9,7 @@ export default function Home() {
   return (
     <>
       <NavBar />
+      <Bridge />
     </>
   );
 }
