@@ -19,7 +19,7 @@ export const coinExTestnet = /*#__PURE__*/ defineChain({
   testnet: true,
 });
 
-export const TOKEN_ETH = "0x3dab8705d0a112e40872aadbf70fcee0321d82ef";
-export const BRIDGE_ETH = "0x77fceb71adecb115f861f22b580add46c0fa1173";
-export const TOKEN_CSC = "0x800E9AD3aCbf7b80a3f2e06Ac5C2B8565dC4c44c";
-export const BRIDGE_CSC = "0x0aAb38709774593d1641a7F902022Be729Be9986";
+export const TOKEN_ETH = "0x50f945be40ee18133530388233151B920d5A9e3B";
+export const BRIDGE_ETH = "0xB31361338997324b12aa8C61CDAceA3734112dA9";
+export const TOKEN_CSC = "0xaEc6Cbcd78a05dFc5Cdd4F15138999fbE9600dF5";
+export const BRIDGE_CSC = "0xCe803c804EC51Ed4F589eA5Cc6210122aF305758";
